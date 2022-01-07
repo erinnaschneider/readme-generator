@@ -27,6 +27,11 @@ const questions = [
         type: 'input'
     },
     {
+        name: 'who',
+        message: 'Who contributed to making this project?',
+        type: 'input'
+    },
+    {
         name: 'license',
         message: 'What is the license you want to use?',
         type: 'list',
