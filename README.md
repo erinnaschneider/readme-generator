@@ -7,6 +7,7 @@
       ** what is the name
       ** what is a description of the project
       ** how to install the project
+      ** what licence would you like to use for the project
       ** how to use the project
       ** who contributed to the project
       ** for contact information via email and github
