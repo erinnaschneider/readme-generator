@@ -1,32 +1,18 @@
-# project
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Professional ReadMe Generator
    
   ## Description
-  undefined
+  This is a command-line application that uses inquirer to gather information for generating a professional readme file.
+    * A user is prompted with questions about a project they've created. This application asks:
+      ** what is the name
+      ** what is a description of the project
+      ** how to install the project
+      ** how to use the project
+      ** who contributed to the project
+      ** for contact information via email and github
+      
+## Video of application
 
-  ## Table of Contents
-
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+## Screenshot of generated ReadMe
   
-## Installation
-  undefined
-  
-## Usage
-  undefined
-  
-## Contributing
-  undefined
-  
-## Tests
-  undefined
-  
-## Questions
-If you have any questions, contact me through github:
-  <a href='https://github.com/username'>username</a><br>
-or my email:
-  <a href='mailto:email'>email</a>
+## Made by
+Erinn 👾
