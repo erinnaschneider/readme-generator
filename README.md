@@ -18,6 +18,7 @@ https://watch.screencastify.com/v/EsWOMH4K9DoGa4qrSAat
 
 ## Screenshot of generated ReadMe
 
+![image](https://user-images.githubusercontent.com/90404513/148653693-33415795-8f2c-4ae6-8e4f-4245b10cac05.png)
 
   
 ## Made by
