@@ -1,21 +1,12 @@
-# Project 1
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]
-  (https://opensource.org/licenses/Apache-2.0)
-  Copyright 2022 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
- 
-      http://www.apache.org/licenses/LICENSE-2.0
- 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+# ReadMe Generator
+  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)]
+  (https://opensource.org/licenses/IPL-1.0)
+  The IPL is the open-source license IBM uses for some of its software. 
+    Supposed to facilitate commercial use of said software; is very clear on the specifics of liability. 
+    Also grants explicit patent rights.
 
   ## Description
-  A project that auto-generates a readme file.
+  An application that auto-generates a professional ReadMe file.
 
   ## Table of Contents
 
@@ -25,10 +16,10 @@
     * [Questions](#questions)
   
 ## Installation
-  Download my repository and run npm install.
+  Git clone my project's repository and run 'npm install'.
   
 ## Usage
-  Run 'node index' in the command line.
+  Run 'node index' in the command line and follow the prompts.
   
 ## Creator
   Erinn S
