@@ -2,7 +2,7 @@
    
   ## Description
   This is a command-line application that uses inquirer to gather information for generating a professional readme file.
-    * A user is prompted with questions about a project they've created. This application asks:
+    ### A user is prompted with questions about a project they've created. This application asks:
       ** what is the name
       ** what is a description of the project
       ** how to install the project
